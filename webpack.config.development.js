@@ -60,6 +60,7 @@ module.exports = (_, options) =>
         plugins: [
             new HtmlWebpackPlugin({
                 template: "./public/index.html",
+                favicon: "./public/favicon.ico",
                 inject: true,
                 minify: false
             }),
