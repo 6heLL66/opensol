@@ -9,15 +9,17 @@
     },
     "author": "Nikita Semenchuk",
     "dependencies": {
+        "@emotion/react": "^11.11.1",
         "@fortawesome/react-fontawesome": "^0.2.0",
         "react": "^18.2.0",
-        "react-animations": "^1.0.0",
+        "react-awesome-reveal": "^4.2.7",
         "react-dom": "^18.2.0",
         "react-query": "^3.39.3",
         "react-router-dom": "^6.20.1"
     },
     "devDependencies": {
         "@types/react": "^18.0.15",
+        "@types/react-animations": "^1.0.3",
         "@types/react-dom": "^18.0.6",
         "@typescript-eslint/eslint-plugin": "^6.13.2",
         "@typescript-eslint/parser": "^6.13.2",
